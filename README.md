@@ -1,5 +1,10 @@
 # gene-editing
 
+
+- #### [Novel CRISPR/Cas applications in plants: from prime editing to chromosome engineering](https://link.springer.com/article/10.1007/s11248-021-00238-x)
+
+
+
 - #### [Perspectives on the Application of Genome-Editing Technologies in Crop Breeding](https://www.cell.com/molecular-plant/fulltext/S1674-2052(19)30230-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1674205219302308%3Fshowall%3Dtrue)
 
 - #### [Sorghum breeding in the genomic era: opportunities and challenges](https://link.springer.com/article/10.1007/s00122-021-03789-z)
