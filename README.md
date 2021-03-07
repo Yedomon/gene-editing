@@ -1,6 +1,27 @@
 # gene-editing
 
 
+
+
+[Scientists have used genome sequencing and editing to develop a rapid-fire way to domesticate plants, allowing the quik transformation of wild rice into a bountiful crop](https://www.nature.com/articles/d41586-021-00307-5#:~:text=A%20lanky%20species%20of%20wild,rice%20into%20a%20bountiful%20crop.)
+
+
+
+![fi](https://media.nature.com/w700/magazine-assets/d41586-021-00307-5/d41586-021-00307-5_18831610.jpg)
+
+
+
+The original paper appeared in Cell [A route to de novo domestication of wild allotetraploid rice](https://www.sciencedirect.com/science/article/pii/S0092867421000131)
+
+
+
+- #### NEWS AND VIEWS  05 MARCH 2021
+[Road map for domesticating multi-genome rice using gene editing](https://www.nature.com/articles/d41586-021-00589-9)
+
+
+
+
+
 - #### [Novel CRISPR/Cas applications in plants: from prime editing to chromosome engineering](https://link.springer.com/article/10.1007/s11248-021-00238-x)
 
 
