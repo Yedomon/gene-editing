@@ -1,7 +1,11 @@
 # gene-editing
 
 
+[Chapter 13 - Application of CRISPR/Cas system for genome editing in cotton](https://www.sciencedirect.com/science/article/pii/B9780128219102000102)
 
+[Chapter 10 - CRISPR/Cas9 and Cas13a systems: a promising tool for plant breeding and plant defence](https://www.sciencedirect.com/science/article/pii/B9780128219102000023)
+
+[Chapter 16 - Fungal genome editing using CRISPR-Cas nucleases: a new tool for the management of plant diseases](https://www.sciencedirect.com/science/article/pii/B9780128219102000011)
 
 [Scientists have used genome sequencing and editing to develop a rapid-fire way to domesticate plants, allowing the quik transformation of wild rice into a bountiful crop](https://www.nature.com/articles/d41586-021-00307-5#:~:text=A%20lanky%20species%20of%20wild,rice%20into%20a%20bountiful%20crop.)
 
