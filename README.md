@@ -1,7 +1,11 @@
 # gene-editing
 
 
+[Mechanistic insights of CRISPR/Cas‐mediated genome editing towards enhancing abiotic stress tolerance in plants](https://onlinelibrary.wiley.com/doi/10.1111/ppl.13359)
 
+
+
+[A bumper crop of SNPs in soybean through high‐density genotyping‐by‐sequencing (HD‐GBS)](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13551)
 
 
 [Enhancing grain-yield-related traits by CRISPR–Cas9 promoter editing of maize CLE genes](https://www.nature.com/articles/s41477-021-00858-5?utm_source=nplants_etoc&utm_medium=email&utm_campaign=toc_41477_7_3&utm_content=20210318&WT.ec_id=NPLANTS-202103&sap-outbound-id=692F3CF677E2FB9CFEA6EB803C1C5E4CDE304CAE)
