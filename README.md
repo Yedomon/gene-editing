@@ -1,6 +1,13 @@
 # gene-editing
 
 
+
+
+
+[Enhancing grain-yield-related traits by CRISPR–Cas9 promoter editing of maize CLE genes](https://www.nature.com/articles/s41477-021-00858-5?utm_source=nplants_etoc&utm_medium=email&utm_campaign=toc_41477_7_3&utm_content=20210318&WT.ec_id=NPLANTS-202103&sap-outbound-id=692F3CF677E2FB9CFEA6EB803C1C5E4CDE304CAE)
+
+
+
 [Chapter 13 - Application of CRISPR/Cas system for genome editing in cotton](https://www.sciencedirect.com/science/article/pii/B9780128219102000102)
 
 [Chapter 10 - CRISPR/Cas9 and Cas13a systems: a promising tool for plant breeding and plant defence](https://www.sciencedirect.com/science/article/pii/B9780128219102000023)
