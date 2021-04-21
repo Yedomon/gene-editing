@@ -1,6 +1,12 @@
 # gene-editing
 
 
+
+[Dissecting cis-regulatory control of quantitative trait variation in a plant stem cell circuit](https://www.nature.com/articles/s41477-021-00898-x)
+
+
+![IMG](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41477-021-00898-x/MediaObjects/41477_2021_898_Fig1_HTML.png?as=webp)
+
 [Mechanistic insights of CRISPR/Cas‐mediated genome editing towards enhancing abiotic stress tolerance in plants](https://onlinelibrary.wiley.com/doi/10.1111/ppl.13359)
 
 
