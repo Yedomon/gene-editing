@@ -2,6 +2,19 @@
 
 
 
+
+Move over CRISPR, the retrons are coming
+
+A new gene-editing tool has enabled Harvard's Wyss Institute for Biologically Inspired Engineering scientists to accomplish a feat that wouldn't be possible to do with CRISPR, according to a [press release](https://www.sciencedaily.com/releases/2021/04/210430120411.htm#:~:text=Researchers%20have%20created%20a%20new,can%20be%20screened%20at%20once.).
+
+
+![img](https://wyss-prod.imgix.net/app/uploads/2021/04/30121734/Retron_Figure-1d1.jpg?w=1200&h=323&auto=format&q=90&fit=crop&crop=faces%2Centropy)
+
+
+
+
+
+
 [Dissecting cis-regulatory control of quantitative trait variation in a plant stem cell circuit](https://www.nature.com/articles/s41477-021-00898-x)
 
 
